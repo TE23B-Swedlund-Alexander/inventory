@@ -1,6 +1,6 @@
 ﻿PointyStick sword = new PointyStick();
 
-sword.Name = "Sword";
+sword.Name = "Swordy";
 sword.Weight = 7;
 sword.Stats();
 Inventory bag = new Inventory();
