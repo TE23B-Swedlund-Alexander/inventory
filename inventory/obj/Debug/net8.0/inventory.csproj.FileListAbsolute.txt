@@ -1,0 +1,15 @@
+c:\Users\alexander.swedlund\prog2\inventory\inventory\bin\Debug\net8.0\inventory.exe
+c:\Users\alexander.swedlund\prog2\inventory\inventory\bin\Debug\net8.0\inventory.deps.json
+c:\Users\alexander.swedlund\prog2\inventory\inventory\bin\Debug\net8.0\inventory.runtimeconfig.json
+c:\Users\alexander.swedlund\prog2\inventory\inventory\bin\Debug\net8.0\inventory.dll
+c:\Users\alexander.swedlund\prog2\inventory\inventory\bin\Debug\net8.0\inventory.pdb
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.AssemblyInfo.cs
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.sourcelink.json
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.dll
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\refint\inventory.dll
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.pdb
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\inventory.genruntimeconfig.cache
+c:\Users\alexander.swedlund\prog2\inventory\inventory\obj\Debug\net8.0\ref\inventory.dll
