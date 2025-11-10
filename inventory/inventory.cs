@@ -1,6 +1,6 @@
 public class Inventory()
 {
-    List<Item> Items = [];
+   private List<Item> Items = [];
     public void Store(Item thing)
     {
         Items.Add(thing);
@@ -9,7 +9,7 @@ public class Inventory()
     {
         for (int i = 0; i < Items.Count; i++)
         {
-            Console.WriteLine(Items[i].Name);
+            Console.WriteLine(Items[i].getname);
         }
     }
 }

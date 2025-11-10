@@ -1,4 +1,13 @@
 public class Consumable : Item
 {
-    public int uses;
+    private int uses;
+
+    public int getUses()
+    {
+        return uses;
+    }
+    public void setUses(int h)
+    {
+        uses = h;
+    }
 }
